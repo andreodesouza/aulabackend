@@ -8,6 +8,8 @@ Python 3 instalado.
 Crie o ambiente virtual:
 python -m venv .venv
 
-Ative o ambiente virtual e execute:
+Ative o ambiente virtual:
 .venv\Scripts\activate
+
+Execute:
 python main.py
