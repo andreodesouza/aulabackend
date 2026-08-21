@@ -13,3 +13,7 @@ Ative o ambiente virtual:
 
 Execute:
 python main.py
+
+## Equipe de Desenvolvimento
+André Oliveira de Souza (Matrícula: 202422910)
+Lucas Alves de Carvalho (Matrícula: 202422969)
