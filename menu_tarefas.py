@@ -25,7 +25,7 @@ def atualizar_situacao():
 
     try:
        
-        numero = int(input('Digite o número da tarefa que deseja atualizar: '))
+        numero = int(input('Digite o número da tarefa que deseja atualizar: ')) 
         
         
         indice_situacao = (numero - 1) * 3 + 2
