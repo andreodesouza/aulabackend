@@ -44,7 +44,7 @@ def atualizar_situacao():
             print("Número de tarefa inválido!")
             
     except ValueError:
-        print("Por favor, digite um número inteiro válido.")
+        print("Por favor, digite um número inteiro válido.") 
 
 def menu():
 
